@@ -11,8 +11,8 @@
 
 * [Personal profile with badges and completed courses](https://www.codecademy.com/profiles/byte8163059590)
 * Introduction to Javascript _(completed)_
+* Learn the Command Line _(completed)_
 * Learn Ruby _(completed)_
-* Learn Ruby on Rails _(completed)_
 
 ## Work Experience
 
