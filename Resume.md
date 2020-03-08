@@ -20,6 +20,7 @@
 * Reworked the entire kitchen recipe book, batching, modifying and measuring every item on the menu until easily reproducible.
 * Created a complete inventory tracking sheet, accounting for the differing stock needs of several departments.
 * Maintained all restaurant equipment and computers, including organizing off-site repairs and performing minor sysadmin tasks.  
+* Led a crew of five cooks and was responsible for training all new hires in prep, order fulfillment and inventory.
 #### _Production Manager_ | Rocky Mountain Chocolate Factory | Seattle, WA (Feb - Dec 2017)
 * Produced all artisan confections for the shop, accounting for one third of the products available. 
 * Kept an active inventory system up-to-date, tracking variable rate of sale, time to produce and remaining ingredient stock.
